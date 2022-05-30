@@ -24,7 +24,7 @@ I'am programming 👨‍💻 for fun, very interested in programming languages, 
 ### 📊 Github Statistics 📊
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/AribYadi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AribYadi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AribYadi&layout=compact&theme=dark" />
   </a>
