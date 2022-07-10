@@ -6,8 +6,7 @@ I'am programming 👨‍💻 for fun, very interested in programming languages, 
 
 🌱 I'm growing my knowledge about compiler design and programming languages in general.\
 ⌨️ On my spare time, i like to code as a hobbyist.\
-👍 I'am interested in games, language theory, the web, and technology in general.\
-⚙️ I'am currently working on a programming language called [pyr](https://github.com/AribYadi/pyr.git)
+👍 I'm interested in games, language theory, the web, and technology in general.
 
 ### 🛠 Tech Stack 🛠
 
