@@ -1,6 +1,6 @@
 ## 👋 Hello! My name is Arib 👋
 
-I'am programming 👨‍💻 for fun, very interested in programming languages, and very much looking into open source.
+I'm programming 👨‍💻 for fun, very interested in programming languages, and very much looking into open source.
 
 ### 📖 About Me 📖
 
